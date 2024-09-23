@@ -1,0 +1,6 @@
+[23-Sep-2024 16:28:24 UTC] PHP Warning:  Constant WP_CACHE already defined in C:\Users\prote\Local Sites\laviedesplantes\app\public\wp-config.php on line 105
+[23-Sep-2024 16:28:24 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\prote\Local Sites\laviedesplantes\app\public\wp-config.php on line 106
+[23-Sep-2024 16:28:24 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\prote\Local Sites\laviedesplantes\app\public\wp-config.php on line 107
+[23-Sep-2024 16:28:25 UTC] PHP Warning:  Constant WP_CACHE already defined in C:\Users\prote\Local Sites\laviedesplantes\app\public\wp-config.php on line 105
+[23-Sep-2024 16:28:25 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\prote\Local Sites\laviedesplantes\app\public\wp-config.php on line 106
+[23-Sep-2024 16:28:25 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\prote\Local Sites\laviedesplantes\app\public\wp-config.php on line 107
